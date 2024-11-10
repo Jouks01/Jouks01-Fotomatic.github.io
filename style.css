@@ -65,7 +65,7 @@ header li {
   opacity: 0.6;
 }
 
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 768px) {
   header .join-us {
     display: inline-block;
     padding: 0;
@@ -202,7 +202,7 @@ header li {
   background-color: #747373;
 }
 
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 768px) {
   .banner {
    justify-content: center;
    height: 550px;
@@ -285,7 +285,7 @@ header li {
   font-size: 1rem;
 }
 
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 768px) {
 
   .feature {
     padding: 1rem;
@@ -394,7 +394,7 @@ header li {
   width: 100%;
 }
 
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 768px) {
   #filters-section .image-container {
     margin: 0;
     padding: 0;
@@ -469,7 +469,7 @@ header li {
   padding-left: 0.8%;
 }
 
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 768px) {
   #quotes-section .content-center {
     padding: 2rem 0.3rem;
     flex-wrap: nowrap;
@@ -514,7 +514,7 @@ footer .content {
   justify-content: space-between;
 }
 
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 768px) {
   footer .content {
     height: 2.5rem;
   }
