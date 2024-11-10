@@ -134,7 +134,7 @@ header li {
 /* Main */
 
 .banner {
-  background-image: url('https://Jouks01-Fotomatic.github.io/images/banner-landingpage.jpg');
+  background-image: url('/images/banner-landingpage.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
